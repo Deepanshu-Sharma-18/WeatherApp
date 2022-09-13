@@ -8,7 +8,7 @@
 
 Insert gif or link to demo
 
-![alt text](https://github.com/Deepanshu-Sharma-18/QrGenz/blob/master/Picsart_22-09-12_16-07-47-230.jpg)
+![alt text](https://github.com/Deepanshu-Sharma-18/WeatherApp/blob/master/Picsart_22-09-13_19-08-03-927.jpg)
 ## About WeatherApp
 
 WeatherApp app is simple weather app with clean architecture created using OpenWeatherApi based on MVVM architecture.
